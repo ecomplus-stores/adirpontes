@@ -1,24 +1,24 @@
 {
-  "store_id": 4864,
-  "name": "adirpontes",
-  "domain": "adirpontes.netlify.app",
-  "short_name": "adirpontes",
-  "description": "adirpontes",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "domain": "royalgeek.com.br",
+  "currency_symbol": "R$",
+  "primary_color": "#0066ff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/adirpontes",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "adirpontes",
+  "short_name": "adirpontes",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/adirpontes"
+  "secondary_color": "#024364",
+  "icon": "/img/icon.png",
+  "store_id": 4864,
+  "description": "adirpontes",
+  "large_icon": "/img/large-icon.png"
 }
