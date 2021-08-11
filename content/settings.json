@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/adirpontes",
   "logo": "/img/uploads/logo.png",
-  "name": "adirpontes",
-  "short_name": "adirpontes",
+  "name": "Royal Geek",
+  "short_name": "Royal Geek",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,6 +19,6 @@
   "secondary_color": "#024364",
   "icon": "/img/icon.png",
   "store_id": 4864,
-  "description": "adirpontes",
+  "description": "Royal Geek",
   "large_icon": "/img/large-icon.png"
 }
