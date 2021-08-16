@@ -8,17 +8,17 @@
   },
   "bg_color": "#ededed",
   "repository": "ecomplus-stores/adirpontes",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/royal-geek.png",
   "name": "Royal Geek",
   "short_name": "Royal Geek",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/royal-geek-sem-escrita.png",
   "country_code": "BR",
   "secondary_color": "#010118",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/royal-geek-sem-escrita.png",
   "store_id": 4864,
   "description": "Royal Geek",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/royal-geek-sem-escrita.png"
 }
