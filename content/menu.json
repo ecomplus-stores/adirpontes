@@ -1,5 +1,8 @@
 {
-  "sort_categories": [],
-  "phone_wpp": true,
-  "socials": true
+  "sort_categories": [
+    "camisetas",
+    "canecas-personalizadas"
+  ],
+  "phone_wpp": false,
+  "socials": false
 }
