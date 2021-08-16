@@ -1,12 +1,12 @@
 {
   "domain": "www.royalgeek.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0066ff",
+  "primary_color": "#0017c7",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#ededed",
   "repository": "ecomplus-stores/adirpontes",
   "logo": "/img/uploads/logo.png",
   "name": "Royal Geek",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#024364",
+  "secondary_color": "#010118",
   "icon": "/img/icon.png",
   "store_id": 4864,
   "description": "Royal Geek",
