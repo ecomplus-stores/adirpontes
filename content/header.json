@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Conheça Nossa Linha de Camisetas Geek!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -8,18 +8,17 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/camisetas?Camisetas",
+      "/canecas-personalizadas?Canecas Personalizadas"
+    ],
+    "random": 0,
     "full_width": false
   },
   "search_input": true
