@@ -1,7 +1,7 @@
 {
   "domain": "www.royalgeek.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0017c7",
+  "primary_color": "#000847",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "niche-game"
@@ -16,9 +16,9 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-teste-2.png",
   "country_code": "BR",
-  "secondary_color": "#010118",
+  "secondary_color": "#3d3d51",
   "icon": "/img/uploads/logo-teste-2.png",
   "store_id": 4864,
-  "description": "Royal Geek",
+  "description": "Royal Geek - A loja para amantes do mundo Nerd!",
   "large_icon": "/img/uploads/logo-teste-2.png"
 }
