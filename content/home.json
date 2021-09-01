@@ -16,6 +16,15 @@
       "title": "Camisetas da Galera!"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "612ff20cbc468331cbd846ee:categories:Heróis:/herois",
+      "sort": "sales",
+      "title": "Heróis"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
