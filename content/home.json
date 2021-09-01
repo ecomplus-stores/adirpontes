@@ -3,18 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "slides": [
-        {
-          "start": "2021-08-16T01:31:13.764Z",
-          "end": "",
-          "img": "/img/uploads/rect859.png",
-          "mobile_img": "/img/uploads/rect859.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -24,7 +12,8 @@
       "collection_id": null,
       "limit": 12,
       "page": 1,
-      "sort": "views"
+      "sort": "views",
+      "title": "Camisetas da Galera!"
     },
     {
       "type": "page-title",
