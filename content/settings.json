@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#000847",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "niche-game"
+    "bootswatch": "minty",
+    "custom": "clean-gray"
   },
-  "bg_color": "#ededed",
+  "bg_color": "#ebebeb",
   "repository": "ecomplus-stores/adirpontes",
   "logo": "/img/uploads/logo1-teste.png",
   "name": "Royal Geek",
