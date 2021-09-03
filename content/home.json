@@ -25,6 +25,14 @@
       "title": "Heróis"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Cult"
+    },
+    {
       "type": "page-title",
       "title": "Loja Royal Geek",
       "description": "Nós da Royal Geek Presamos pela qualidade e satisfação do nosso cliente, Venha conhecer nossos produtos e se surpreenda com a nossa variedade de estampas geek feitas com muito amor e carinho!"
