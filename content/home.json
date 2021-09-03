@@ -30,7 +30,8 @@
       "limit": 12,
       "page": 1,
       "sort": "views",
-      "title": "Cult"
+      "title": "Cult",
+      "collection_id": "6132ad08522ab535e6036c37:categories:Cult:/cult"
     },
     {
       "type": "page-title",
