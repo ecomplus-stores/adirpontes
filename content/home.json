@@ -3,6 +3,17 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-09-03T23:22:02.471Z",
+          "end": "",
+          "img": "/img/uploads/rect859.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
