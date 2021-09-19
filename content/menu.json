@@ -1,8 +1,9 @@
 {
   "sort_categories": [
     "camisetas",
-    "canecas-personalizadas"
+    "camisetas-femininas"
   ],
   "phone_wpp": false,
-  "socials": false
+  "socials": false,
+  "alphabetical_order": true
 }
