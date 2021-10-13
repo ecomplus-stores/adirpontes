@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#0a6647",
   "theme": {
-    "bootswatch": "superhero",
-    "custom": "clean-gray"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#0e3e2c",
   "repository": "ecomplus-stores/adirpontes",
@@ -19,6 +19,6 @@
   "secondary_color": "#13ae73",
   "icon": "/img/uploads/nerdastica-icone.png",
   "store_id": 4864,
-  "description": "Nerdastica - A loja para amantes do mundo Nerd!\n",
+  "description": "Nerdastica - A loja para amantes do mundo Nerd!",
   "large_icon": "/img/uploads/nerdastica-icone.png"
 }
