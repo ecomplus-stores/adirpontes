@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0f0ad0ddd4f1825fc9c17be7d6c22f06.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0c273a9ede9546a4922f3ae1882af75b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2bf040d172dfad969727cd9b3427d604.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.eabd2b8739c3ed5617a3b40b4c86c35c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.025e2335d8e7b4cdb065d8a1eace565f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Nerdastica",
+  "short_name": "Nerdastica",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nerdastica - A loja para amantes do mundo Nerd!",
+  "background_color": "#0e3e2c",
+  "theme_color": "#0a6647"
+}
